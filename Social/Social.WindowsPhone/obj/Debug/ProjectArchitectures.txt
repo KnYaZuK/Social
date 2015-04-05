@@ -1,0 +1,1 @@
+G:\_Cloud\GitHub\Social\Social\Social.WindowsPhone\Social.WindowsPhone.csproj;neutral

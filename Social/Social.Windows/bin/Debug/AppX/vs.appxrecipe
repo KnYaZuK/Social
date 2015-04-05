@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KNYAZUK-DESKTOP</Machine>
+    <WindowsUser>Denis</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1764d623-a5b6-4cce-a874-b095d7bcbcce</PackageIdentityName>
+    <IntermediateOutputPath>G:\_Cloud\GitHub\Social\Social\Social.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>398ABEEF26F16EBC213268E8FFE55D49ABCAE84EADA4282F2662A8FD4B6797D6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1764d623-a5b6-4cce-a874-b095d7bcbcce_1.0.0.0_neutral__k7tfm8dnpxb46</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1764d623-a5b6-4cce-a874-b095d7bcbcce_k7tfm8dnpxb46!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1764d623-a5b6-4cce-a874-b095d7bcbcce</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Denis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-05T15:29:35.912</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\Social.Windows.exe">
+      <PackagePath>Social.Windows.exe</PackagePath>
+      <Modified>2015-04-05T15:29:35.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-11-07T15:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-04-05T15:28:04.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-05T15:29:35.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-04-05T15:29:35.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-04-05T15:29:35.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-04-05T15:29:35.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\Social.Windows.xr.xml">
+      <PackagePath>Social.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-05T15:29:35.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\_Cloud\GitHub\Social\Social\Social.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-05T15:29:35.831</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
